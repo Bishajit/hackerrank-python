@@ -1,5 +1,5 @@
 
-n = int(input("enter input 1"))
+n = int(input("enter input "))
 if n % 2 == 1:
     print("Weird")
         
@@ -11,4 +11,4 @@ elif n % 2 == 0:
         print("Weird")
     
     elif n > 20:
-        print("Not Weird")
+        print("Not Weird")2
